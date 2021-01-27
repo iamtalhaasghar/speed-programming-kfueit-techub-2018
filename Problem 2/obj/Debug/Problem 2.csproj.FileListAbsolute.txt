@@ -1,0 +1,6 @@
+C:\Users\farha\Desktop\SpeedP\Problem 2\bin\Debug\Problem 2.exe.config
+C:\Users\farha\Desktop\SpeedP\Problem 2\bin\Debug\Problem 2.exe
+C:\Users\farha\Desktop\SpeedP\Problem 2\bin\Debug\Problem 2.pdb
+C:\Users\farha\Desktop\SpeedP\Problem 2\obj\Debug\Problem 2.csprojResolveAssemblyReference.cache
+C:\Users\farha\Desktop\SpeedP\Problem 2\obj\Debug\Problem 2.exe
+C:\Users\farha\Desktop\SpeedP\Problem 2\obj\Debug\Problem 2.pdb
