@@ -3,5 +3,5 @@ This repo contains our team`s code for KFUEIT Techub 2018 Speed Programming Cont
 
 ## Our Team
 1. Arish Ali (Team Leader)
-2. Talha Asghar (me)
+2. Talha Asghar
 3. Junaid Nawab
